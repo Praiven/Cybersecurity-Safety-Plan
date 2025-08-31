@@ -4,7 +4,7 @@ A case was presented concerning a contemporary microbiological laboratory. We we
 
 1) Asset Identification & Evaluation
 2) Vulnerability Classification
-3) Threat Assessment based on ISO27001k Standard
+3) Threat Assessment based on ISO27001 Standard
 4) Impact Analysis & Assessment 
 5) Countermeasures Presentation
 6) Risk Assessment
